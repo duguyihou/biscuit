@@ -1,0 +1,26 @@
+{
+  "name": "biscuit",
+  "version": "1.0.0",
+  "description": "electron",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duguyihou/biscuit.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "kong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duguyihou/biscuit/issues"
+  },
+  "homepage": "https://github.com/duguyihou/biscuit#readme",
+  "devDependencies": {
+    "electron": "^15.1.0"
+  }
+}
